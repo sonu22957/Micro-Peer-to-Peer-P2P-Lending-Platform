@@ -54,8 +54,9 @@ backend/node_modules/
 uploads/
 
 # Temporary Files
-tmp/
 temp/
+
+tmt/
 
 # MongoDB Local Files (if any)
 data/
