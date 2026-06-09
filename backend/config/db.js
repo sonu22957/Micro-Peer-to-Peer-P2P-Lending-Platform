@@ -2,6 +2,7 @@
 // MongoDB connection using Mongoose
 require('dotenv').config();
 
+// this normal comment is added to test the commit and push functionality of git
 const mongoose = require('mongoose');
 
 const dbUrl = process.env.DATABASE_URL || 'mongodb://localhost:27017/loan_management';
